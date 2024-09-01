@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">H2O Timer</string>
+    <string name="title_1">¿Qué hacemos?</string>
+    <string name="tile_2">Cuanto Usas</string>
+    <string name="title_3">Tu consumo</string>
+    <string name="title_4">Consejos</string>
+    <string name="title_5">¿Qué Estabas Haciendo?</string>
+    <string name="title_6">Tu Consumo</string>
+    <string name="title_7">Como gastar Menos</string>
+    <string name="encuesta1">Lavarse las manos</string>
+    <string name="encuesta2">Ducharse</string>
+    <string name="encuesta3">Cepillarse los dientes</string>
+    <string name="encuesta4">Cocinar</string>
+    <string name="encuesta5">Regar las plantas</string>
+    <string name="encuesta6">Bañar a las mascotas</string>
+    <string name="encuesta7">Lavar el coche</string>
+    <string name="consejo1">Cierra el grifo completamente</string>
+    <string name="Otro">Otro</string>
+    <string name="salir">Salir</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo@algo.com</string>
+    <string name="pass">Contrasena</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="detener">Detener</string>
+    <string name="guardar">Guardar</string>
+    <string name="masConcejos">Mas consejos</string>
+    <string name="volver">Volver</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="crono">00:00</string>
+</resources>
